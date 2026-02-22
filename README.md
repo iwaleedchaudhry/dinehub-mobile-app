@@ -23,6 +23,10 @@ DineHub is a mobile application that helps users discover restaurants, filter th
 This repository is a logic prototype showing planned architecture, screens, services, and data models.
 The clickable UI prototype is available in Figma.
 
+## Figma Prototype
+(Add your Figma link here)
+
 ## Team Members
 - Laiba Shakoor (261940471)
 - Waleed Asif (271045628)
+
