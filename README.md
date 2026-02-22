@@ -24,7 +24,7 @@ This repository is a logic prototype showing planned architecture, screens, serv
 The clickable UI prototype is available in Figma.
 
 ## Figma Prototype
-(Add your Figma link here)
+https://www.figma.com/make/A17hRtn4XOXjJyjqDRyr9e/DineHub-App-Logic-Prototype?t=q4tU65sKQuADSUpO-0&preview-route=%2Freservation%2F1
 
 ## Team Members
 - Laiba Shakoor (261940471)
